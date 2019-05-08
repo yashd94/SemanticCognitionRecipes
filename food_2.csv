@@ -1,0 +1,51 @@
+,cuisine,id,ingredients,veg,vegan,dessert,spicy,drink,alcohol
+26040,moroccan,34394,"['fresh thyme leaves', 'salt', 'fresh lemon juice', 'shallots', 'extra-virgin olive oil', 'cumin seed', 'flatbread', 'red wine vinegar', 'chickpeas', 'carrots', 'water', 'Italian parsley leaves', 'beets']",1,0,0,0,0,0
+9563,moroccan,17322,"['cooking oil', 'lamb shoulder', 'couscous', 'fresh ginger', 'diced tomatoes', 'garlic cloves', 'ground turmeric', 'fresh coriander', 'sweet potatoes', 'purple onion', 'fresh dates', 'zucchini', 'paprika', 'cinnamon sticks']",0,0,0,0,0,0
+34748,moroccan,4330,"['olive oil', 'sea salt', 'garlic cloves', 'chopped cilantro', 'steak tips', 'chili paste', 'ground coriander', 'ginger root', 'garlic powder', 'paprika', 'fresh lemon juice', 'ground cumin', 'cider vinegar', 'onion powder', 'freshly ground pepper', 'chopped parsley']",0,0,0,1,0,0
+4747,moroccan,13215,"['ground black pepper', 'white wine vinegar', 'fresh parsley', 'kalamata', 'garlic cloves', 'ground cumin', 'fennel bulb', 'salt', 'plum tomatoes', 'vidalia onion', 'extra-virgin olive oil', 'fresh lemon juice']",1,1,0,0,0,0
+32116,moroccan,20641,"['pita bread', 'olive oil', 'pumpkin', 'cinnamon sticks', 'lamb shanks', 'ground black pepper', 'salt', 'saffron', 'sugar', 'lavash', 'ras el hanout', 'onions', 'prunes', 'crushed tomatoes', 'unsalted butter', 'chickpeas']",0,0,0,0,0,0
+12499,brazilian,42981,"['whole milk', 'sugar', 'condensed milk', 'eggs', 'vanilla extract', 'water']",1,0,1,0,0,0
+3508,brazilian,21131,"['fresh cilantro', 'coarse salt', 'freshly ground pepper', 'cumin', 'cooked rice', 'ground black pepper', 'salt', 'fresh lime juice', 'tomatoes', 'olive oil', 'garlic', 'coconut milk', 'salmon', 'bell pepper', 'sweet paprika', 'onions']",1,0,0,0,0,0
+18792,brazilian,21228,"['agave nectar', 'berries', 'yoghurt']",1,1,1,0,0,0
+38265,brazilian,21101,"['superfine sugar', 'cachaca', 'sour cherries', 'fresh lime', 'ice']",1,1,0,0,1,1
+26450,brazilian,7974,"['butter', 'salt', 'white rice']",1,1,0,0,0,0
+16851,italian,7276,"['kosher salt', 'cherry tomatoes', 'pepper', 'pesto', 'spaghetti']",1,0,0,0,0,0
+4667,italian,874,"['panko', 'all-purpose flour', 'boneless skinless chicken breast halves', 'milk', 'salt', 'flat leaf parsley', 'pepperoni slices', 'large eggs', 'shredded mozzarella cheese', 'tomato sauce', 'parmigiano reggiano cheese', 'freshly ground pepper', 'canola oil']",0,0,0,0,0,0
+15756,italian,23822,"['cognac', 'unsweetened cocoa powder', 'melted butter', 'confectioners sugar', 'raisins', 'sweetened condensed milk', 'biscuits', 'blanched almonds']",1,0,0,0,0,1
+29869,italian,37578,"['low-fat buttermilk', 'grated lemon zest', 'unflavored gelatin', 'whole milk', 'apple juice', 'sugar', 'mint sprigs', 'fresh lemon juice', 'cooking spray', 'blueberries']",1,0,1,0,0,0
+10995,italian,48897,"['olive oil', 'garlic', 'grated parmesan cheese', 'boneless skinless chicken breast halves', 'ground black pepper', 'dry bread crumbs', 'basil dried leaves']",0,0,0,0,0,0
+17250,indian,39808,"['tomato purée', 'coriander powder', 'heavy cream', 'brown cardamom', 'bay leaf', 'ginger paste', 'garlic paste', 'capsicum', 'salt', 'cumin seed', 'onions', 'clove', 'tumeric', 'chili powder', 'cilantro leaves', 'lemon juice', 'cashew nuts', 'melted butter', 'garam masala', 'vegetable oil', 'green cardamom', 'cinnamon sticks', 'chicken']",1,1,0,1,0,0
+21794,indian,23297,"['beets', 'canola oil', 'plain yogurt', 'black mustard seeds', 'cumin seed', 'salt', 'chopped cilantro fresh']",1,0,0,0,0,0
+33896,indian,30137,"['spanish onion', 'garam masala', 'garlic', 'carrots', 'ground cloves', 'paste tomato', 'potatoes', 'cumin seed', 'frozen peas', 'olive oil', 'ground black pepper', 'salt', 'ground beef', 'water', 'coriander seeds', 'cinnamon', 'lentils']",0,0,0,1,0,0
+606,indian,14946,"['brown sugar', 'chili powder', 'garlic', 'curry powder', 'raisins', 'mustard seeds', 'peaches', 'ginger', 'pickling spices', 'apple cider vinegar', 'chopped onion']",1,1,0,1,0,0
+16497,indian,11121,"['water', 'yellow food coloring', 'salt', 'basmati rice', 'garam masala', 'red food coloring', 'chopped cilantro', 'fresh ginger root', 'lemon', 'cayenne pepper', 'chicken', 'plain yogurt', 'unsalted butter', 'garlic', 'onions']",0,0,0,1,0,0
+30169,greek,38386,"['whole almonds', 'eggplant', 'salt', 'olive oil', 'garlic', 'white sugar', 'cherry tomatoes', 'chili powder', 'onions', 'white wine', 'mint leaves', 'fresh parsley']",1,1,0,1,0,1
+32332,greek,45698,"['lamb stock', 'diced tomatoes', 'lamb shoulder', 'onions', 'lemon', 'garlic', 'bay leaf', 'olive oil', 'dry red wine', 'salt', 'dried oregano', 'ground cinnamon', 'fresh green bean', 'passata', 'fresh parsley']",0,0,0,0,0,1
+23188,greek,30373,"['bread crumbs', 'fennel bulb', 'ground lamb', 'mayonaise', 'olive oil', 'salt', 'minced garlic', 'shallots', 'hamburger buns', 'ground black pepper', 'dried oregano']",0,0,0,0,0,0
+25409,greek,7158,"['fresh dill', 'yukon gold potatoes', 'feta cheese crumbles', 'olive oil', 'garlic cloves', 'dried oregano', 'kosher salt', 'purple onion', 'green beans', 'tomatoes', 'zucchini', 'fresh lemon juice']",0,0,0,0,0,0
+30773,greek,34948,"['sundried tomato pesto', 'butter', 'sunflower kernels', 'fresh spinach', 'sliced black olives', 'basil', 'chopped parsley', 'soy sauce', 'shallots', 'extra-virgin olive oil', 'rib eye steaks', 'minced garlic', 'whole wheat penne pasta', 'feta cheese crumbles']",1,0,0,0,0,0
+36025,korean,37831,"['soy sauce', 'mushroom caps', 'ginger', 'oyster sauce', 'honey', 'rice wine', 'scallions', 'onions', 'pepper', 'potatoes', 'dark brown sugar', 'carrots', 'red chili peppers', 'sesame seeds', 'sesame oil', 'garlic cloves', 'chicken']",0,0,0,0,0,1
+12969,korean,6140,"['sesame seeds', 'crushed red pepper flakes', 'brown sugar', 'green onions', 'garlic cloves', 'soy sauce', 'sesame oil', 'pears', 'pork tenderloin', 'rice vinegar']",0,0,0,1,0,0
+21025,korean,32510,"['minced garlic', 'sesame oil', 'water', 'salt', 'roasted sesame seeds', 'mung bean sprouts', 'spring onions']",0,0,0,0,0,0
+31365,korean,38255,"['sugar', 'garlic', 'red bell pepper', 'noodles', 'kosher salt', 'carrots', 'onions', 'soy sauce', 'scallions', 'toasted sesame oil', 'canola oil', 'filet mignon', 'button mushrooms', 'ground white pepper', 'toasted sesame seeds']",0,0,0,0,0,0
+5471,korean,44561,"['butter lettuce', 'kosher salt', 'sesame oil', 'cabbage', 'sambal ulek', 'sugar', 'fresh ginger', 'scallions', 'boneless pork shoulder', 'mayonaise', 'lime', 'garlic', 'red chili powder', 'sweet chili sauce', 'reduced sodium soy sauce', 'carrots']",0,0,0,1,0,0
+14411,chinese,39926,"['soy sauce', 'baby carrots', 'eggs', 'steamed white rice', 'white onion', 'frozen peas', 'coconut oil', 'sesame oil']",1,0,0,0,0,0
+12323,chinese,20295,"['pork belly', 'chinese five-spice powder', 'ground black pepper', 'water', 'rock salt', 'sugar', 'salt']",0,0,0,0,0,0
+30634,chinese,36938,"['sugar pea', 'sesame oil', 'all-purpose flour', 'brown sugar', 'sesame seeds', 'ginger', 'soba noodles', 'lime', 'cilantro', 'peanut butter', 'soy sauce', 'boneless skinless chicken breasts', 'garlic', 'carrots']",0,0,0,0,0,0
+9949,chinese,9103,"['spring roll wrappers', 'water', 'cilantro stems', 'crushed red pepper flakes', 'coconut milk', 'red chili peppers', 'fresh ginger', 'spring onions', 'scallions', 'kosher salt', 'jalapeno chilies', 'chicken breasts', 'garlic cloves', 'sweetened coconut', 'lemongrass', 'taro', 'bacon fat', 'canola oil']",0,0,0,1,0,0
+34732,chinese,32069,"['low sodium soy sauce', 'rice vinegar', 'bamboo shoots', 'large eggs', 'garlic chili sauce', 'shiitake', 'firm tofu', 'chicken stock', 'green onions', 'carrots']",0,0,0,0,0,0
+5312,japanese,22137,"['mirin', 'soy sauce', 'sugar', 'vegetable oil', 'salmon']",0,0,0,0,0,0
+39115,japanese,38767,"['soy sauce', 'green onions', 'sake', 'beef', 'onions', 'eggs', 'gari', 'oil', 'sugar', 'mirin']",0,0,0,0,0,0
+32054,japanese,46232,"['miso paste', 'ponzu', 'ginger paste', 'wasabi paste', 'extra firm tofu', 'rice vinegar', 'mirin', 'garlic', 'honey', 'vegetable oil', 'dark brown sugar']",1,1,0,1,0,0
+14938,japanese,24842,"['eggs', 'asparagus', 'broccoli', 'water', 'flour', 'carrots', 'pepper', 'zucchini', 'oil', 'eggplant', 'baking powder']",1,0,0,0,0,0
+38069,japanese,37604,"['lemon wedge', 'nori', 'salmon fillets', 'furikake', 'vegetable oil', 'sushi rice', 'fine sea salt']",0,0,0,0,0,0
+19634,vietnamese,16995,"['coconut juice', 'minced garlic', 'thai chile', 'brown sugar', 'green onions', 'caramel sauce', 'fish sauce', 'cooking oil', 'steak', 'black pepper', 'shallots']",0,0,0,1,0,0
+249,vietnamese,33603,"['lime', 'cilantro', 'glass noodles', 'Boston lettuce', 'mirin', 'persian cucumber', 'avocado', 'thai basil', 'peanut butter', 'rice paper', 'soy sauce', 'Sriracha', 'carrots']",0,0,0,1,0,0
+35902,vietnamese,42072,"['sugar', 'vegetable oil', 'garlic', 'chopped cilantro', 'kosher salt', 'vine ripened tomatoes', 'firm tofu', 'soy sauce', 'vegetable stock', 'tamarind paste', 'onions', 'chili flakes', 'chives', 'cracked black pepper', 'sliced mushrooms']",0,0,0,1,0,0
+25603,vietnamese,1592,"['eggs', 'corn starch', 'water', 'cassava', 'sugar', 'coconut milk', 'mung beans']",1,0,0,0,0,0
+19220,vietnamese,40583,"['meat', 'frozen banana leaf']",0,0,0,0,0,0
+25673,filipino,27032,"['tomato sauce', 'vegetable oil', 'onions', 'chicken legs', 'fingerling potatoes', 'salt', 'fish sauce', 'bay leaves', 'red bell pepper', 'chicken stock', 'ground black pepper', 'garlic']",0,0,0,0,0,0
+20033,filipino,14465,"['eggs', 'baking powder', 'all-purpose flour', 'sugar', 'cake flour', 'coconut milk', 'coconut oil', 'sea salt', 'Edam', 'cooking spray', 'frozen banana leaf']",1,0,0,0,0,0
+23515,filipino,16439,"['tomato sauce', 'water', 'salt', 'frozen sweet peas', 'soy sauce', 'steamed white rice', 'ground beef', 'sugar', 'bananas', 'oil', 'eggs', 'pepper', 'garlic', 'onions']",0,0,,0,0,0
+32683,filipino,34301,"['soy sauce', 'bay leaves', 'rice vinegar', 'pepper', 'purple onion', 'pork belly', 'garlic', 'black peppercorns', 'water', 'salt']",0,0,0,0,0,0
+21901,filipino,27147,"['eggs', 'baking powder', 'sugar', 'vanilla', 'coconut flakes', 'butter', 'milk', 'sweet rice flour']",1,0,0,0,0,0
