@@ -1,0 +1,100 @@
+,ID,Unnamed: 0,Cuisine,Ingredients,veg,vegan,dessert,spicy,drink,alcohol
+0,38988,185,thai,"['fish sauce', 'basil', 'cilantro leaves', 'sweet chili sauce', 'vegetable oil', 'red chili flakes', 'rice noodles', 'beansprouts', 'lime', 'steak']",0,0,0,1,0,0
+1,39169,178,thai,"['sake', 'oyster sauce', 'brown sugar', 'vegetable oil', 'spinach', 'garlic', 'shrimp', 'chili paste', 'bell pepper']",0,0,0,1,0,1
+2,20852,184,thai,"['potato', 'coconut milk', 'cilantro', 'bell pepper', 'red curry paste', 'bell pepper', 'vegetable oil', 'salt', 'brown sugar', 'cauliflower', 'onions']",1,1,0,1,0,0
+3,7045,182,thai,"['brown sugar', 'vegetable stock', 'tamarind', 'onion', 'eggs', 'soy sauce', 'lime', 'peanuts', 'peanut oil', 'chili flakes', 'coriander', 'rice noodles', 'sauce', 'beansprouts', 'onions', 'bok choy', 'black pepper', 'garlic', 'chili sauce']",1,0,0,1,0,0
+4,3125,181,thai,"['Sriracha', 'sesame oil', 'snow peas', 'garlic', 'teriyaki sauce', 'spaghetti', 'lime', 'water', 'shrimp', 'peanuts', 'peanut butter', 'cilantro']",0,0,0,1,0,0
+5,44706,127,korean,"['rice', 'water']",1,0,0,0,0,0
+6,41513,124,korean,"['vodka', ' flour', 'water', 'sweet soy sauce', 'corn starch', 'salt', 'peanut oil', 'chicken', 'baking powder']",0,0,0,0,0,1
+7,47889,125,korean,"['sugar', 'anchovy', 'radishes', 'ginger', 'salt', 'chile flakes', 'garlic']",1,1,0,1,0,0
+8,40896,126,korean,"['bok choy', 'sesame seeds', 'sesame oil', 'rice', 'eggs', 'strip steaks', 'miso paste', 'chili paste', 'soy sauce', 'shiitake', 'vegetable oil', 'spinach', 'beans', 'zucchini', 'carrots']",0,0,0,1,0,0
+9,17695,112,japanese,"['gari', 'vegetable oil', 'scallions', 'sugar', 'water', 'rice wine vinegar', 'shiso', 'rice', 'seeds', 'avocado', 'toasted nori', 'wasabi paste', 'cucumber', 'salt', 'carrots']",1,0,0,1,0,0
+10,19139,111,japanese,"['sugar', 'cilantro', 'udon', 'salt', 'soy sauce', 'sesame seeds', 'vegetable oil', 'sesame oil', 'bok choy', 'ginger', 'onion', 'carrots', 'chicken broth', 'black cod fillets', 'black pepper', ' sherry', 'spice']",0,0,0,0,0,0
+11,5399,113,japanese,"['milk', 'saffron', 'sugar', 'ghee', 'rose water', 'nuts', 'bread', 'cardamom']",1,0,1,0,0,0
+12,39057,110,japanese,"['water', 'coriander powder', 'salt', 'onions', 'eggplant', 'chili powder', 'cumin seed', 'turmeric', 'tomato', 'garam masala', 'garlic', 'oil', 'cumin', 'ginger', 'potato', 'cilantro leaves', 'frozen peas']",1,1,0,1,0,0
+13,18539,109,japanese,"['vegetable oil', 'cayenne pepper', 'eggs', 'cilantro', 'shrimp', 'paprika', 'garlic ', 'onion powder', 'salt', 'panko breadcrumbs']",0,0,0,0,0,0
+14,33032,22,cajun_creole,"['butter', 'sugar', 'buttermilk', 'salt', ' almonds', 'baking powder', 'vanilla extract', 'sour cream', 'coconut flakes', 'eggs', 'heavy cream', 'sugar', 'vanilla extract', 'baking soda', 'butter', 'flour']",1,0,1,0,0,0
+15,33993,23,cajun_creole,"['mayonaise', 'crabmeat', 'dressing', 'pimentos', 'scallions', 'avocado', 'pickle', 'pepper', 'capers', 'salt', 'lemon']",0,0,0,0,0,0
+16,19567,24,cajun_creole,"['beans', 'water', 'salt', 'black pepper', 'beef', 'rice', 'bell pepper', 'chili powder', 'onions', 'garlic', 'tomato']",0,0,0,0,0,0
+17,8367,25,cajun_creole,"['thyme', 'garlic', 'rice', 'cilantro', 'onions', 'beans', 'butter', 'paprika', 'bell pepper', 'cayenne pepper', 'cumin']",1,0,0,0,0,0
+18,8329,26,cajun_creole,"['celery', 'bell pepper', 'beef broth', 'onions', 'water', 'worcestershire sauce', 'garlic', 'bell pepper', 'beef', 'rice', 'black pepper', 'salt', 'parsley']",0,0,0,0,0,0
+19,47082,93,italian,"['romano cheese', 'bell pepper', 'pasta', 'olive oil', 'pancetta', 'pepper', 'salt', 'tomato', 'cheese', 'onions']",0,0,0,0,0,0
+20,34577,94,italian,"['tomato', 'currant', 'lamb', 'saffron', 'chicken broth', 'olive oil', 'salt', 'parsley', 'cauliflower', 'thyme', 'garlic', 'couscous', 'pinenuts', 'black pepper', 'lemon', 'onions']",0,0,0,0,0,0
+21,23434,95,italian,"['olive oil', 'garlic', 'parsley', 'capers', 'shallots', 'roast red peppers, drain', 'eggplant', 'goat cheese', 'orange', 'kalamata', 'olive oil']",1,0,0,0,0,0
+22,7208,96,italian,"['butter', 'rigatoni', 'parmesan cheese', ' flour', 'bread crumb fresh', 'whipping cream', 'milk', 'gorgonzola']",1,0,0,0,0,0
+23,17939,97,italian,"['tomato paste', 'pepper', 'red chili flakes', 'garlic', 'celery', 'italian seasoning', 'pancetta', 'fish sauce', 'grated parmesan cheese', 'heavy cream', 'beef broth', 'onions', 'tomato', 'parmesan cheese', 'wine', 'salt', 'parsley', 'pasta', 'porcini mushrooms', 'balsamic vinegar', 'basil', 'carrots', 'short rib']",0,0,0,1,0,1
+24,24125,75,indian,"['red chili', 'lime', 'flour', 'lime', 'chutney', 'tumeric', 'ginger', 'yogurt', 'sea salt', 'baking soda', 'olive oil', 'sweet potato', 'potato', 'coriander', 'chickpea flour', 'red chili flakes', 'black pepper', 'onion', 'mustard']",1,0,0,1,0,0
+25,43847,69,indian,"['tomato', 'chili powder', 'cardamom', 'garam masala', 'paneer', 'onions', 'cream', 'butter', 'oil', 'coriander powder', 'salt', 'methi']",1,0,0,1,0,0
+26,42764,70,indian,"['sugar', 'baking powder', 'oil', 'baking soda', 'salt', 'cumin', 'milk', 'butter', 'coriander', 'yogurt', ' flour']",1,0,0,0,0,0
+27,31315,71,indian,"['corn flakes', 'cilantro', 'puffed rice', 'cashew', 'cayenne pepper', 'lime', 'mango chutney', 'onions', 'potato', 'tomato ketchup']",1,1,0,1,0,0
+28,28185,74,indian,"['fish fillets', 'rice', 'vegetable stock', 'curry paste', 'vegetable oil', 'garlic ', 'tomato', 'onions']",0,0,0,0,0,0
+29,13071,190,vietnamese,"['coconut oil', 'cauliflower', 'salt', 'sausages', 'onions', 'red chili flakes', 'honey', 'onion', 'black pepper', 'shrimp', 'water', 'eggs', 'cilantro', 'carrots', 'fish sauce', 'asparagus', 'vinegar', 'garlic', 'lime']",0,0,0,1,0,0
+30,4822,189,vietnamese,"['lettuce', 'hoisin sauce', 'shrimp', 'rice paper', 'peanuts', 'vermicelli', 'beansprouts', 'nuoc nam', 'cilantro', 'mint', 'fish sauce', 'chicken', 'cucumber']",0,0,0,0,0,0
+31,19662,188,vietnamese,"['fish sauce', 'sweet potato', 'baton', 'soda water', 'eggs', 'black pepper', 'mint', 'scallions', 'canola oil', 'leaves', 'ice water', 'cayenne pepper', 'turmeric', 'salt', 'lettuce', ' flour', 'shrimp']",0,0,0,1,0,0
+32,23596,197,vietnamese,"['quinoa', 'scallions', 'shrimp', 'sugar', 'red chili flakes', 'cucumber', 'fish sauce', 'vegetable oil', 'carrots', 'cilantro', 'lime', 'salt', 'bell pepper']",0,0,0,1,0,0
+33,2527,196,vietnamese,"['sugar', 'cinnamon', 'meat']",0,0,0,0,0,0
+34,35137,99,jamaican,"['sugar', 'water', 'sorrel', 'ginger', 'pimentos']",1,1,0,1,1,0
+35,14765,100,jamaican,"['pepper', 'sea bass fillets', 'orange juice', 'onion', 'garlic', 'orange', 'jalapeno chilies', 'navel oranges', 'allspice berries', 'vegetable oil', 'salt']",0,0,0,1,0,0
+36,25712,106,jamaican,"['sugar', 'lime', 'nutmeg', 'chicken', 'orange juice', 'vinegar', 'onion', 'olive oil', 'sage', 'cayenne pepper', 'soy sauce', 'thyme', 'black pepper', 'salt', 'cinnamon', 'pepper', 'garlic', 'onion', 'allspice']",0,0,0,1,0,0
+37,22817,108,jamaican,"['orange', 'cheese', 'lettuce', 'pork', 'sour cream', 'jamaican jerk season', 'beef broth', 'tomato', 'guacamole', 'corn tortillas']",0,0,0,1,0,0
+38,45600,107,jamaican,"['cinnamon', 'thyme', 'scotch bonnet chile', 'allspice', 'shallots', 'brown sugar', 'black peppercorns', 'rum', 'garlic', 'nutmeg', 'lime', 'chicken']",0,0,0,1,0,1
+39,32753,17,british,"[' flour', 'orange', 'eggs', 'milk', 'sugar', 'butter', 'almonds', 'sugar', 'almonds', 'egg', 'jam', 'raspberries', 'water']",1,0,1,0,0,0
+40,21350,18,british,"[' sherry', 'raspberries', 'lemon', 'wine', 'lemon', 'sugar', 'whipping cream']",1,0,1,0,1,1
+41,9378,19,british,"['salt', 'egg', 'milk', 'flour', 'vegetable oil']",1,0,0,0,0,0
+42,7633,14,british,"['chocolate', 'butter', 'dulce de leche', 'espresso', 'heavy cream', 'powdered sugar', 'peanuts', 'sugar', 'graham crackers', 'bananas', 'vanilla extract']",1,0,1,0,0,0
+43,42151,10,british,"['milk', 'salt', 'flour', 'mustard', 'butter', 'cayenne pepper', 'blue cheese', 'stilton cheese']",1,0,0,1,0,0
+44,45008,134,mexican,"['olive oil', 'tomato', 'salt', 'cumin', 'corn meal', 'cilantro', 'cilantro', 'water', 'onion', 'milk', 'Monterey Jack cheese', 'jalapeno chilies', 'queso fresco', 'garlic']",1,0,0,1,0,0
+45,21966,133,mexican,"['  salt', 'serrano chile', ' olive oil', 'shrimp', 'cucumber', 'lime']",0,0,0,0,0,0
+46,7160,132,mexican,"['sugar', 'cinnamon', 'honey', 'salt', 'cornflakes', 'butter', 'vanilla ice cream', 'cool whip']",1,0,1,0,0,0
+47,36266,131,mexican,"['pepper', 'achiote paste', 'coriander', 'vinegar', 'salt', 'pork', 'chili powder', 'onion', 'lemon', 'paprika', 'orange juice', 'cumin']",0,0,0,1,0,0
+48,39793,130,mexican,"['salsa', 'jelly', 'apples', 'strawberries', 'kiwi', 'lime', 'cayenne pepper', 'brown sugar', ' sauce', 'blackberries']",1,1,1,1,0,0
+49,33642,165,southern_us,"['salt', 'parmesan cheese', 'butter', 'fat free milk', 'polenta']",1,0,0,0,0,0
+50,12833,164,southern_us,"['pepper', ' flour', '  salt', 'chicken', 'vegetable oil', 'corn starch', 'buttermilk']",0,0,0,0,0,0
+51,1901,163,southern_us,"['marshmallows', 'orange', 'coconut', 'pineapple', 'clementine', 'cocktail cherries', 'sour cream', 'cool whip', 'apples', 'pecan', 'grape']",1,0,1,0,0,0
+52,36087,162,southern_us,"['salt', 'cornmeal', 'buttermilk', 'green tomato', 'oil']",1,0,0,0,0,0
+53,28972,161,southern_us,"['red pepper', 'olive oil', 'salt', 'paprika', 'sweet potato']",1,1,0,1,0,0
+54,31601,34,chinese,"['tofu', 'pork', 'shallots', 'corn starch', 'water', ' bean paste', 'rice wine']",0,0,0,1,0,1
+55,2230,33,chinese,"['rice wine', 'vegetarian oyster sauce', 'soybean sprouts', 'ginkgo nut', 'mushrooms', 'sugar', 'ginger', 'garlic ', 'bean threads', 'bean curd skins', 'cake', 'water', 'romaine lettuce', 'soy sauce', 'peanut oil', 'bamboo shoots']",1,0,0,0,0,0
+56,47781,32,chinese,"['bell pepper', 'wonton skins', 'coriander', 'fish sauce', 'water chestnuts', 'oil', 'eggs', 'scallops', 'salt', 'pork', 'sesame oil', 'corn flour']",0,0,0,0,0,0
+57,24029,35,chinese,"['bacon', 'vegetable oil', 'bell pepper', 'chillies', 'eggs', 'water', 'garlic', 'rice', 'red chili flakes', 'lemon', 'green chilies', 'onions', 'soy sauce', 'onion', 'salt', 'bell pepper']",0,0,0,1,0,0
+58,10233,31,chinese,"['water', 'vinegar', 'corn starch', 'pineapple', 'tomato paste', 'sugar']",1,1,1,0,0,0
+59,10713,62,greek,"['sugar', 'butter', 'honey', 'walnuts', 'water', 'vanilla extract', 'phyllo dough', 'cinnamon']",1,0,1,0,0,0
+60,24486,61,greek,"['salt', 'yogurt', 'dill', 'garlic', 'olive oil', 'cucumber']",1,0,0,0,0,0
+61,28252,60,greek,"['chicken broth', 'chicken', 'parsley', 'feta cheese', 'salt', 'black pepper', 'lemon', 'tomato', 'ziti', 'oregano']",0,0,0,0,0,0
+62,27242,59,greek,"['tomato', 'broccoli', 'Italian Dressing', 'onion', 'spinach', 'kalamata', 'feta cheese', 'chickpeas']",1,0,0,0,0,0
+63,39287,64,greek,"['spinach', 'garlic', 'feta cheese', 'phyllo dough', 'salt', 'butter', 'cheese', 'vinegar', 'pepper', 'mozzarella cheese']",1,0,0,0,0,0
+64,45080,41,filipino,"['jalapeno chilies', 'scallions', 'pork', 'vinegar', 'soy sauce', 'bay leaves', 'peppercorns', 'water', 'garlic']",0,0,0,1,0,0
+65,10851,42,filipino,"['pepper', 'egg', 'rice', 'chicken', 'fish sauce', 'ginger', 'garlic', 'calamansi', 'water', 'onion', 'oil', 'garlic', 'bouillon cube', 'salt', 'onions']",0,0,0,0,0,0
+66,20018,43,filipino,"['garlic', 'pork', 'soy sauce', 'lemon', 'brown sugar', 'black pepper', 'ketchup', 'salt']",0,0,0,0,0,0
+67,36413,46,filipino,"['quail eggs', 'salt', 'sugar', 'frozen meatballs', 'corn starch', 'water', 'oil', 'soy sauce', 'biscuits']",0,0,0,0,0,0
+68,31122,44,filipino,"['ham', 'garlic', 'cooking oil', 'soy sauce', 'eggs', 'rice']",0,0,0,0,0,0
+69,1331,141,moroccan,"['tomato', 'cilantro', 'cinnamon', 'salt', 'lemon', 'celery', 'black pepper', 'zucchini', 'paprika', 'chickpeas', 'onions', 'tumeric', 'olive oil', 'butter', 'cayenne pepper', 'carrots', 'pasta', 'water', 'potato', 'vegetable broth', 'lamb', 'saffron']",0,0,0,1,0,0
+70,9466,138,moroccan,"['sesame seeds', 'spices', 'cumin', 'ginger', 'black pepper', 'cardamom', 'fennel seeds', 'nutmeg', 'allspice', '', 'chicken', 'coriander']",0,0,0,0,0,0
+71,19683,142,moroccan,"['cinnamon', 'salt', 'pepper', 'ginger', 'cumin', 'cayenne', 'garlic', 'lamb', 'pomegranate juice', 'paprika', 'thyme']",0,0,0,1,0,0
+72,1609,139,moroccan,"['cinnamon', 'cilantro', 'carrots', 'lentils', 'tomato', 'coriander', 'salt', 'chickpeas', 'cumin', 'ginger', 'lemon', 'garlic ']",1,1,0,0,0,0
+73,13264,140,moroccan,"['chicken broth', 'pepper', 'olive oil', 'chicken', 'lemon', 'green olives', 'cayenne pepper', 'onions', 'saffron', 'tumeric', 'paprika', 'garlic ', 'cumin', 'ginger', 'cinnamon', 'salt', 'cilantro']",0,0,0,1,0,0
+74,32828,9,brazilian,"['mango juice', 'ice', 'sugar', 'cachaca', 'lime']",1,1,0,0,1,1
+75,6887,8,brazilian,"['celery ribs', 'olive oil', 'salt', 'onions', 'tomato', 'garlic', 'black pepper', 'fish', 'pepper', 'coconut cream', 'coriander', 'brown sugar', 'lemon', 'bay leaf']",0,0,0,1,0,0
+76,42842,7,brazilian,"['powdered sugar', 'heavy cream', 'corn starch', 'vanilla extract', 'egg yolks', 'cocoa powder', 'milk', 'condensed milk', 'biscuits', 'milk', 'cognac']",1,0,1,0,0,1
+77,9577,6,brazilian,"['sea bass', 'chicken broth', 'onion', 'salt', 'bay leaf', 'olive oil', 'bell pepper', 'clam juice', 'bell pepper', 'cilantro', 'black pepper', 'red pepper', 'garlic ', 'shrimp', ' tomato', 'onion', 'coconut milk', 'lime']",0,0,0,1,0,0
+78,623,0,brazilian,"['condensed milk', 'butter', 'cocoa powder']",1,0,1,0,0,0
+79,5103,79,irish,"['water', 'beef stock', 'lamb', 'onions', 'black pepper', 'bacon', ' flour', 'thyme', 'bay leaves', 'salt', 'sugar', 'wine', 'potato', 'garlic', 'carrots']",0,0,0,1,0,1
+80,26262,88,irish,"['water', 'salt', 'onions', 'celery ribs', 'leeks', 'baby carrots', 'parsley', 'onions', 'potato', 'black pepper', 'lamb', 'garlic ']",0,0,0,1,0,0
+81,48018,87,irish,"['thyme', 'vegetable oil', 'bacon', ' onion', 'cabbage', 'chuck roast', 'butter', 'salt', 'carrots', 'black pepper', 'russet potato', 'garlic', 'beer', 'milk', 'bay leaves', 'worcestershire sauce', ' flour', 'parsley']",0,0,0,1,0,1
+82,10899,85,irish,"['smoked bacon', 'butter', 'rutabaga', 'bay leaves', 'pork', 'potato', 'carrots', 'chicken broth', 'cider', 'cabbage']",0,0,0,0,0,1
+83,26248,84,irish,"['mustard', 'cider', 'brown sugar', 'clove', 'ham']",0,0,0,0,0,1
+84,26678,55,french,"['cheese', ' mushrooms', 'margarine', 'parmesan cheese', 'arugula']",1,0,0,0,0,0
+85,38092,49,french,"[' egg yolks', 'marsala wine', 'mint sprigs', 'sugar', 'peaches', 'water']",1,0,1,0,1,1
+86,6066,58,french,"[' eggs', ' butter', 'cocoa powder', ' flour', 'sugar', 'chocolate']",1,0,1,0,0,0
+87,43432,57,french,"['capers', 'worcestershire sauce', 'lemon', 'mustard', 'garlic ', 'bell peppers', 'anchovy paste', 'mayonnaise', 'dill pickles']",0,0,0,1,0,0
+88,22521,56,french,"['chives', 'tarragon', 'white asparagus', 'salt', 'eggs', 'pistachios', ' butter', ' parsley']",1,0,0,0,0,0
+89,30668,171,spanish,"['hazelnuts', 'bread', 'almonds', 'chili', ' garlic ', 'red peppers', '  salt', 'vinegar', 'country bread', 'olive oil', ' olive oil', ' tomato']",1,1,0,1,0,1
+90,38192,172,spanish,"['pasta', 'tomato', 'onions', 'lobster', 'parsley', ' wine', 'bay leaf', 'olive oil', 'garlic ', 'saffron']",0,0,0,0,0,1
+91,49433,173,spanish,"['chorizo', ' butter', 'paprika', 'black pepper', 'sun-dried tomato', 'milk', 'scallions', '  salt', 'manchego cheese', 'russet potato', 'corn starch', 'olive oil', ' eggs', 'onion']",0,0,0,0,0,0
+92,7387,174,spanish,"['sugar', 'flour', 'salt', ' butter', 'cinnamon', ' eggs', 'lemon', 'milk', 'vegetable oil']",0,0,1,0,0,0
+93,46901,175,spanish,"['tomato', 'jalapeno chilies', 'salt', 'lime', ' olive oil', 'pepper', '  cucumber', 'mint', 'cilantro', 'onion', 'garlic', 'avocado']",1,1,0,1,0,0
+94,16644,151,russian,"[' water', 'flour', 'yeast', 'salt', 'corn syrup']",1,1,0,0,0,0
+95,21526,150,russian,"['water', 'onion', 'cucumber', 'potato', 'dill', 'vinegar', 'salt', 'sour cream', 'egg', 'ham']",0,0,0,0,0,0
+96,13869,149,russian,"['powdered sugar', 'salt', ' egg whites', 'walnut  ', 'cocoa powder', 'vanilla extract']",1,0,1,0,0,0
+97,1671,156,russian,"['carrots', 'potato', 'onions', 'beets', 'cabbage', 'beef']",0,0,0,0,0,0
+98,30460,157,russian,"['eggs', 'flour', 'rosemary', 'apples', ' mushrooms', 'sugar', 'milk', 'butter', 'dill', 'cabbage', 'brown sugar', 'pepper', 'flour', 'salt', 'onions', 'salt', ' water', 'active  yeast', 'poppy seeds', 'oil']",1,0,0,0,0,0
